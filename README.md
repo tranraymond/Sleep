@@ -1,2 +1,2 @@
 # Sleep
-Sleep analysis using consumer accelerometers
+## Sleep analysis using Fitbit JSON files
